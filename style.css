@@ -1,0 +1,47 @@
+.container{
+    background-image: url(./img/pattern.png);
+    height: 400px;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.container2{
+    padding: 70px;
+}
+
+.sito-web{
+    text-decoration: none;
+}
+
+.inizio-tabella{
+    background-color: rgb(52, 111, 189);
+    color: white;
+}
+
+.colonna{
+    background-color: aqua;
+}
+
+.testo-evidenziato{
+    background-color: yellow;
+}
+
+.colore-testo{
+    color: lightgrey;
+}
+
+#final-image1{
+   background-image: url(./img/monitor.jpg);
+   height: 200px;
+   width: 200px;
+   margin-bottom: 15px;
+   font-size: 20px;
+   color: white;
+}
+
+#final-image2{
+   background-image: url(./img/graph.jpg);
+   height: 200px;
+   width: 200px;
+   font-size: 20px;
+   color: white;
+}
